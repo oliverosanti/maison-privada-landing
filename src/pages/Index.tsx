@@ -1,5 +1,6 @@
 import AnimatedSection from "@/components/AnimatedSection";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Navbar from "@/components/Navbar";
 import { Home, Shield, TreePine, MapPin, Check } from "lucide-react";
 
 const Index = () => {
