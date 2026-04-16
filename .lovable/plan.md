@@ -10,7 +10,7 @@ href="https://wa.me/5491100000000?text=..."
 ```
 to:
 ```
-href="https://wa.me/5492215673235?text=..."
+href="https://wa.me/5491138466707?text=..."
 ```
 
 No other files affected.
