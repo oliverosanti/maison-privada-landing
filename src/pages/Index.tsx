@@ -6,6 +6,7 @@ import { Home, Shield, TreePine, MapPin, Check } from "lucide-react";
 const Index = () => {
   return (
     <div className="min-h-screen bg-background text-foreground font-body">
+      <Navbar />
       <WhatsAppButton />
 
       {/* HERO */}
@@ -69,7 +70,7 @@ const Index = () => {
       </section>
 
       {/* PROJECT */}
-      <section className="grid lg:grid-cols-2">
+      <section id="proyecto" className="grid lg:grid-cols-2">
         <div className="flex items-center px-6 py-20 md:px-16 lg:px-24 lg:py-32">
           <AnimatedSection>
             <h2 className="font-display text-3xl font-light text-foreground md:text-5xl">
@@ -122,7 +123,7 @@ const Index = () => {
       </section>
 
       {/* UNITS */}
-      <section className="bg-card px-6 py-24 md:px-16 lg:px-24 lg:py-32">
+      <section id="unidades" className="bg-card px-6 py-24 md:px-16 lg:px-24 lg:py-32">
         <div className="grid gap-16 lg:grid-cols-2">
           <AnimatedSection>
             <h2 className="font-display text-3xl font-light text-foreground md:text-5xl">
@@ -251,7 +252,7 @@ const Index = () => {
       </section>
 
       {/* LOCATION */}
-      <section className="px-6 py-24 md:px-16 lg:px-24 lg:py-32">
+      <section id="ubicacion" className="px-6 py-24 md:px-16 lg:px-24 lg:py-32">
         <AnimatedSection>
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="font-display text-3xl font-light text-foreground md:text-5xl">
