@@ -326,7 +326,7 @@ const Index = () => {
                 rel="noopener noreferrer"
                 className="inline-block bg-[#25D366] px-8 py-4 text-xs uppercase tracking-[0.2em] text-white transition-all hover:bg-[#20bd5a]"
               >
-                Hablar por WhatsApp
+                Contactate por WhatsApp
               </a>
             </div>
           </div>
