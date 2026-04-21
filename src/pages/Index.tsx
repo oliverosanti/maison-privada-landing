@@ -140,6 +140,7 @@ const Index = () => {
                 "Parrilla propia en expansión",
                 "Palier privado con acceso exclusivo",
                 "Ingreso con sistema keyless",
+                "Accesos para personas con movilidad reducida",
               ].map((item) => (
                 <li key={item} className="flex items-start gap-3 text-sm text-foreground">
                   <Check className="mt-0.5 h-4 w-4 shrink-0 text-warm-stone" strokeWidth={2} />
