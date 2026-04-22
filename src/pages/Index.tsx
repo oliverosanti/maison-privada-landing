@@ -84,11 +84,11 @@ const Index = () => {
             </p>
           </AnimatedSection>
         </div>
-        <div className="relative min-h-[500px] overflow-hidden">
+        <div className="relative min-h-[300px] md:min-h-[500px] overflow-hidden">
           <img
             src="/images/interior-living.jpg"
             alt="Interior living Piedras 1891"
-            className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 hover:scale-105"
+            className="w-full h-auto object-contain md:absolute md:inset-0 md:h-full md:object-cover transition-transform duration-700 md:hover:scale-105"
             loading="lazy"
           />
         </div>
@@ -97,11 +97,11 @@ const Index = () => {
       <section className="grid lg:grid-cols-2">
   
   {/* IMAGEN IZQUIERDA */}
-  <div className="relative min-h-[500px] overflow-hidden">
+  <div className="relative min-h-[300px] md:min-h-[500px] overflow-hidden">
     <img
       src="/images/amenities-terraza.jpg"
       alt="Terraza con amenities Piedras 1891"
-      className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 hover:scale-105"
+      className="w-full h-auto object-contain md:absolute md:inset-0 md:h-full md:object-cover transition-transform duration-700 md:hover:scale-105"
       loading="lazy"
     />
   </div>
