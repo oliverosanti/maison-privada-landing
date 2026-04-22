@@ -94,6 +94,37 @@ const Index = () => {
         </div>
       </section>
 
+      <section className="grid lg:grid-cols-2">
+  
+  {/* IMAGEN IZQUIERDA */}
+  <div className="relative min-h-[500px] overflow-hidden">
+    <img
+      src="/images/amenities-terraza.png"
+      alt="Terraza con amenities Piedras 1891"
+      className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 hover:scale-105"
+      loading="lazy"
+    />
+  </div>
+
+  {/* TEXTO DERECHA */}
+  <div className="flex items-center px-6 py-20 md:px-16 lg:px-24 lg:py-32">
+    <AnimatedSection>
+      <h2 className="font-display text-3xl font-light text-foreground md:text-5xl">
+        Vivir también es disfrutar
+      </h2>
+
+      <p className="mt-8 max-w-lg text-base leading-relaxed text-muted-foreground">
+        Un espacio pensado para desconectar sin salir de casa. La terraza combina diseño, confort y vistas abiertas para que cada momento tenga su lugar.
+      </p>
+
+      <p className="mt-4 max-w-lg text-base leading-relaxed text-muted-foreground">
+        Piscina, fogonero y quincho con parrilla se integran en un entorno único, ideal para compartir, relajarse y disfrutar de una nueva forma de vivir la ciudad.
+      </p>
+    </AnimatedSection>
+  </div>
+
+</section>
+
       {/* GALLERY */}
       <section className="px-6 py-24 md:px-16 lg:px-24 lg:py-32">
         <AnimatedSection>
