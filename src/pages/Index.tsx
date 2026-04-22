@@ -99,7 +99,7 @@ const Index = () => {
   {/* IMAGEN IZQUIERDA */}
   <div className="relative min-h-[500px] overflow-hidden">
     <img
-      src="/images/amenities-terraza.png"
+      src="/images/amenities-terraza.jpg"
       alt="Terraza con amenities Piedras 1891"
       className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 hover:scale-105"
       loading="lazy"
