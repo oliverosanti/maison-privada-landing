@@ -174,11 +174,12 @@ const Index = () => {
             <ul className="mt-10 space-y-4">
               {[
                 "145 m² cubiertos + 20 m² de balcón",
-                "5 ambientes flexibles",
+                "4 y 5 ambientes flexibles",
                 "3 baños completos + toilette",
                 "Parrilla propia en expansión",
                 "Palier privado con acceso exclusivo",
                 "Ingreso con sistema keyless",
+                "Cochera Privada",
                 "Accesos para personas con movilidad reducida",
               ].map((item) => (
                 <li key={item} className="flex items-start gap-3 text-sm text-foreground">
