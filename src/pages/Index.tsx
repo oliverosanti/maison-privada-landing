@@ -177,6 +177,7 @@ const Index = () => {
                 "4 y 5 ambientes flexibles",
                 "3 baños completos + toilette",
                 "Parrilla propia en expansión",
+                "Puertas de seguridad con cerradura electrónica",
                 "Palier privado con acceso exclusivo",
                 "Ingreso con sistema keyless",
                 "Cochera Privada",
