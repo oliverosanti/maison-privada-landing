@@ -114,15 +114,19 @@ const Index = () => {
   <div className="flex items-center px-6 py-20 md:px-16 lg:px-24 lg:py-32">
     <AnimatedSection>
       <h2 className="font-display text-3xl font-light text-foreground md:text-5xl">
-        Vivir también es disfrutar
+        Confort, lujo y relajación en un mismo lugar en el SUM
       </h2>
 
       <p className="mt-8 max-w-lg text-base leading-relaxed text-muted-foreground">
         Un espacio pensado para desconectar sin salir de casa. La terraza combina diseño, confort y vistas abiertas para que cada momento tenga su lugar.
       </p>
 
+       <p className="mt-4 max-w-lg text-base leading-relaxed text-muted-foreground">
+        La pileta es el espacio ideal para disfrutar los momentos de ocio con la incorporación de un solárium.
+      </p>
+
       <p className="mt-4 max-w-lg text-base leading-relaxed text-muted-foreground">
-        Piscina, fogonero y quincho con parrilla se integran en un entorno único, ideal para compartir, relajarse y disfrutar de una nueva forma de vivir la ciudad.
+        Fogonero y quincho con parrilla se integran en un entorno único, ideal para compartir, relajarse y disfrutar de una nueva forma de vivir la ciudad.
       </p>
     </AnimatedSection>
   </div>
