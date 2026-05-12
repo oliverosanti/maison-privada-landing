@@ -114,7 +114,7 @@ const Index = () => {
   <div className="flex items-center px-6 py-20 md:px-16 lg:px-24 lg:py-32">
     <AnimatedSection>
       <h2 className="font-display text-3xl font-light text-foreground md:text-5xl">
-        Confort, lujo y relajación en un mismo lugar en el SUM
+        SUM: Confort, lujo y relajación en un mismo lugar
       </h2>
 
       <p className="mt-8 max-w-lg text-base leading-relaxed text-muted-foreground">
