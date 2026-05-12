@@ -227,7 +227,7 @@ const Index = () => {
                 La planta permite múltiples configuraciones según tus necesidades:
               </p>
               <ul className="mt-8 space-y-3">
-                {["4 dormitorios", "Escritorio o home office", "Espacios integrados o sectorizados"].map((item) => (
+                {["4 dormitorios", "Escritorio o Home Office", "Espacios integrados o sectorizados"].map((item) => (
                   <li key={item} className="flex items-center gap-3 text-foreground">
                     <span className="h-px w-6 bg-warm-stone" />
                     {item}
@@ -283,7 +283,7 @@ const Index = () => {
                 Espacios comunes pensados para disfrutar
               </h2>
               <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-                {["SUM", "Terraza verde", "Cocheras individuales", "Bauleras"].map((item) => (
+                {["SUM", "Terraza verde", "Piscina", "Cocheras individuales", "Bauleras"].map((item) => (
                   <div key={item} className="border border-primary-foreground/20 bg-primary-foreground/5 px-6 py-5 backdrop-blur-sm">
                     <p className="text-sm font-light tracking-wide text-primary-foreground">{item}</p>
                   </div>
