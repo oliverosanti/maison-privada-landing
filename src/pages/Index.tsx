@@ -349,14 +349,14 @@ const Index = () => {
         <AnimatedSection>
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="font-display text-3xl font-light text-primary-foreground md:text-5xl">
-              Últimas unidades disponibles
+              Unidades Disponibles
             </h2>
             <p className="mt-6 text-base font-light text-warm-sand">
               Coordiná una visita o recibí toda la información del proyecto.
             </p>
             <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
               <a
-                href="mailto:info@piedras1891.com"
+                href="mailto:estudioreymondes@gmail.com"
                 className="inline-block border border-primary-foreground/40 px-8 py-4 text-xs uppercase tracking-[0.2em] text-primary-foreground transition-all hover:bg-primary-foreground/10"
               >
                 Consultar ahora
@@ -377,7 +377,7 @@ const Index = () => {
       {/* FOOTER */}
       <footer className="bg-foreground border-t border-primary-foreground/10 px-6 py-8 text-center">
         <p className="text-xs text-warm-sand/60">
-          © 2026 Piedras 1891 · Barracas, Buenos Aires · Comercializa REYRAN SRL
+          © 2026 Piedras 1891 · Barracas, Buenos Aires · Comercializa REYRAN SRL · Estudioreymondes@gmail.com · *Las imágenes publicadas son meramente ilustrativas
         </p>
       </footer>
     </div>
