@@ -59,8 +59,8 @@ const Index = () => {
           {[
             { icon: Home, title: "Sensación de casa", text: "Ambientes amplios, expansión exterior y parrilla propia en cada unidad." },
             { icon: Shield, title: "Privacidad total", text: "Solo 4 unidades con acceso independiente y palier privado." },
-            { icon: TreePine, title: "Espacios verdes reales", text: "Terraza verde y conexión con el exterior en cada residencia." },
-            { icon: MapPin, title: "Ubicación estratégica", text: "En Barracas, a pasos de Parque Lezama y Av. Martín García." },
+            { icon: TreePine, title: "SUM", text: "Terraza verde, Piscina, Solarium, Parrilla y Laundry." },
+            { icon: MapPin, title: "Ubicación estratégica", text: "En Barracas, a pasos de Parque Lezama y Av. Martín García. Áreas: San telmo, Boulevar Caseros, Av. Montes de Oca" },
           ].map((item, i) => (
             <AnimatedSection key={item.title} delay={i * 0.1}>
               <div className="group">
