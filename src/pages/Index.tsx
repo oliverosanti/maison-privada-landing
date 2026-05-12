@@ -30,9 +30,13 @@ const Index = () => {
             <div className="mt-8 flex flex-wrap gap-6 text-sm text-warm-sand/80">
               <span>145 m² + balcón corrido</span>
               <span className="hidden sm:inline">·</span>
-              <span>5 ambientes flexibles</span>
+              <span>4 o 5 ambientes flexibles</span>
               <span className="hidden sm:inline">·</span>
-              <span>Parrilla propia + expansión exterior</span>
+              <span> SUM Piscina - Parrilla </span>
+               <span className="hidden sm:inline">·</span>
+              <span>Cocheras individuales - Bauleras </span>
+               <span className="hidden sm:inline">·</span>
+              <span> Terraza Verde </span>
             </div>
             <a
               href="#contacto"
