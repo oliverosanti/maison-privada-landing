@@ -57,9 +57,9 @@ const Index = () => {
         </AnimatedSection>
         <div className="mt-16 grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
           {[
-            { icon: Home, title: "Sensación de casa", text: "Ambientes amplios, expansión exterior y parrilla propia en cada unidad." },
-            { icon: Shield, title: "Privacidad total", text: "Solo 4 unidades con acceso independiente y palier privado." },
-            { icon: TreePine, title: "SUM", text: "Terraza verde, Piscina, Solarium, Parrilla y Laundry." },
+            { icon: Home, title: "Sensación de casa", text: "Ambientes amplios con mucha luminosidad y parrilla propia en cada unidad." },
+            { icon: Shield, title: "Privacidad total", text: "Solo 4 unidades con acceso independiente, palier privado, Puerta de seguridad con cerradura electrónica." },
+            { icon: TreePine, title: "SUM", text: "Terraza verde, Piscina, Solarium, Parrilla, Baño y Laundry." },
             { icon: MapPin, title: "Ubicación estratégica", text: "En Barracas, a pasos de Parque Lezama y Av. Martín García. Áreas: San telmo, Boulevar Caseros, Av. Montes de Oca" },
           ].map((item, i) => (
             <AnimatedSection key={item.title} delay={i * 0.1}>
