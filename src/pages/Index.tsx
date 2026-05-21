@@ -28,7 +28,7 @@ const Index = () => {
               Solo 4 residencias exclusivas con espacios de casa, expansión privada y parrilla propia
             </p>
             <div className="mt-8 flex flex-wrap gap-6 text-sm text-warm-sand/80">
-              <span>145 m² + balcón corrido</span>
+              <span>140 m² + 20 m² balcón corrido</span>
               <span className="hidden sm:inline">·</span>
               <span>4 o 5 ambientes flexibles</span>
               <span className="hidden sm:inline">·</span>
@@ -169,11 +169,11 @@ const Index = () => {
               Residencias exclusivas
             </h2>
             <p className="mt-6 max-w-lg text-base leading-relaxed text-muted-foreground">
-              Solo 4 unidades diseñadas para ofrecer confort, funcionalidad y privacidad en cada detalle.
+              Solo 4 unidades (*) diseñadas para ofrecer confort, funcionalidad y privacidad en cada detalle.
             </p>
             <ul className="mt-10 space-y-4">
               {[
-                "145 m² cubiertos + 20 m² de balcón",
+                "140 m² cubiertos + 20 m² de balcón (*)",
                 "4 y 5 ambientes flexibles",
                 "3 baños completos + toilette",
                 "Parrilla propia en expansión",
@@ -227,7 +227,7 @@ const Index = () => {
                 La planta permite múltiples configuraciones según tus necesidades:
               </p>
               <ul className="mt-8 space-y-3">
-                {["4 dormitorios", "Escritorio o Home Office", "Espacios integrados o sectorizados"].map((item) => (
+                {["4 dormitorios", "Escritorio o Home Office", "Espacios integrados o sectorizados", "*medidas y distribución a modo orientativo" ].map((item) => (
                   <li key={item} className="flex items-center gap-3 text-foreground">
                     <span className="h-px w-6 bg-warm-stone" />
                     {item}
@@ -379,7 +379,7 @@ const Index = () => {
       {/* FOOTER */}
       <footer className="bg-foreground border-t border-primary-foreground/10 px-6 py-8 text-center">
         <p className="text-xs text-warm-sand/60">
-          © 2026 Piedras 1891 · Barracas, Buenos Aires · Comercializa REYRAN SRL · Estudioreymondes@gmail.com · *Las imágenes publicadas son meramente ilustrativas
+          © 2026 Piedras 1891 · Barracas, Buenos Aires · Comercializa REYRAN SRL · Estudioreymondes@gmail.com · Las imágenes publicadas son meramente ilustrativas
         </p>
       </footer>
     </div>
