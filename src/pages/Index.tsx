@@ -60,7 +60,7 @@ const Index = () => {
             { icon: Home, title: "Sensación de casa", text: "Ambientes amplios con mucha luminosidad y parrilla propia en cada unidad." },
             { icon: Shield, title: "Privacidad total", text: "Solo 4 unidades con acceso independiente, palier privado, Puerta de seguridad con cerradura electrónica." },
             { icon: TreePine, title: "SUM", text: "Terraza verde, Piscina, Solarium, Parrilla, Baño y Laundry." },
-            { icon: MapPin, title: "Ubicación estratégica", text: "En Barracas, a pasos de Parque Lezama y Av. Martín García. Áreas: San Telmo, Boulevar Caseros, Av. Montes de Oca" },
+            { icon: MapPin, title: "Ubicación estratégica", text: "En Barracas, a pasos de Parque Lezama y Av. Martín García. Áreas: San Telmo, Boulevard Caseros, Av. Montes de Oca" },
           ].map((item, i) => (
             <AnimatedSection key={item.title} delay={i * 0.1}>
               <div className="group">
@@ -302,7 +302,7 @@ const Index = () => {
               Conectado con todo
             </h2>
             <p className="mt-6 text-base leading-relaxed text-muted-foreground">
-              Ubicado en Barracas, a metros de Av. Martín García y a pasos de Parque Lezama, combinando tranquilidad y acceso inmediato a la ciudad, San Telmo, Boulevar Caseros, Av. Montes de Oca.
+              Ubicado en Barracas, a metros de Av. Martín García y a pasos de Parque Lezama, combinando tranquilidad y acceso inmediato a la ciudad, San Telmo, Boulevard Caseros, Av. Montes de Oca.
             </p>
           </div>
         </AnimatedSection>
