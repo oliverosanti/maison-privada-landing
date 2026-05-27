@@ -379,7 +379,7 @@ const Index = () => {
       {/* FOOTER */}
       <footer className="bg-foreground border-t border-primary-foreground/10 px-6 py-8 text-center">
         <p className="text-xs text-warm-sand/60">
-          © 2026 Piedras 1891 · Barracas, Buenos Aires · Desarrolla REYRAN SRL · Estudioreymondes@gmail.com · Las imágenes publicadas son meramente ilustrativas
+          © 2026 Piedras 1891 · Barracas, Buenos Aires · Desarrolla REYRAN SRL · comercial@reyran.com.ar · Las imágenes publicadas son meramente ilustrativas
         </p>
       </footer>
     </div>
