@@ -358,7 +358,7 @@ const Index = () => {
             </p>
             <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
               <a
-                href="mailto:estudioreymondes@gmail.com"
+                href="mailto:comercial@reyran.com.ar"
                 className="inline-block border border-primary-foreground/40 px-8 py-4 text-xs uppercase tracking-[0.2em] text-primary-foreground transition-all hover:bg-primary-foreground/10"
               >
                 Consultar ahora
