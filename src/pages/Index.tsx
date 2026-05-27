@@ -28,7 +28,7 @@ const Index = () => {
               Solo 4 residencias exclusivas con espacios de casa, expansión privada y parrilla propia
             </p>
             <div className="mt-8 flex flex-wrap gap-6 text-sm text-warm-sand/80">
-              <span>145m² + 20m² (*) balcón corrido</span>
+              <span>145m² + 20m² semicubiertos balcón corrido</span>
               <span className="hidden sm:inline">·</span>
               <span>4 o 5 ambientes flexibles</span>
               <span className="hidden sm:inline">·</span>
