@@ -28,7 +28,7 @@ const Index = () => {
               Solo 4 residencias exclusivas con espacios de casa, expansión privada y parrilla propia
             </p>
             <div className="mt-8 flex flex-wrap gap-6 text-sm text-warm-sand/80">
-              <span>145m² + 20m² semicubiertos balcón corrido</span>
+              <span>145m² + 20m² semicubiertos de expasión y balcón corrido</span>
               <span className="hidden sm:inline">·</span>
               <span>4 o 5 ambientes flexibles</span>
               <span className="hidden sm:inline">·</span>
@@ -173,7 +173,7 @@ const Index = () => {
             </p>
             <ul className="mt-10 space-y-4">
               {[
-                "145m² cubiertos + 20m² semicubiertos balcón (*)",
+                "145m² cubiertos + 20m² semicubiertos de expasión y balcón corrido (*)",
                 "4 y 5 ambientes flexibles",
                 "3 baños completos + toilette",
                 "Parrilla propia en expansión",
