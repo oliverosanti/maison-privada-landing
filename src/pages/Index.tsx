@@ -173,7 +173,7 @@ const Index = () => {
             </p>
             <ul className="mt-10 space-y-4">
               {[
-                "145m² cubiertos + 20m² de balcón (*)",
+                "145m² cubiertos + 20m² semicubiertos balcón (*)",
                 "4 y 5 ambientes flexibles",
                 "3 baños completos + toilette",
                 "Parrilla propia en expansión",
