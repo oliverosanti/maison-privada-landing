@@ -252,6 +252,7 @@ const Index = () => {
             "Caldera dual individual",
             "Aberturas de aluminio de alta prestación",
             "Preinstalación para domótica",
+            "Preinstalación para autos electricos",
             "Wifi integral del edificio",
             "Preparado para paneles solares",
             "Bajo consumo energético y bajo costo de mantenimiento",
