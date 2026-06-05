@@ -335,7 +335,7 @@ const Index = () => {
                 { label: "Proyecto y dirección", value: "L-urbano" },
                 { label: "Arquitecta", value: "Lila Luca" },
                 { label: "Constructora", value: "Canari Constructora SRL" },
-                { label: "Comercialización", value: "REYRAN SRL" },
+                { label: "Desarrolla", value: "REYRAN SRL" },
               ].map((item) => (
                 <div key={item.label}>
                   <p className="text-xs uppercase tracking-[0.15em] text-muted-foreground">{item.label}</p>
